@@ -567,7 +567,7 @@ go version
 
 ## Support
 
-- 📚 [API Documentation](https://www.cyberapi.io/docs)
+- 📚 [API Documentation](https://docs.cyberapi.io)
 - 📧 [Email Support](mailto:inbox@cyberapi.io)
 
 ## License

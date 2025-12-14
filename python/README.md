@@ -58,4 +58,4 @@ Visit [https://www.cyberapi.io](https://www.cyberapi.io) to get your API key.
 ## Support
 
 - Email: inbox@cyberapi.io
-- Docs: https://www.cyberapi.io/docs
+- Docs: https://docs.cyberapi.io
