@@ -105,7 +105,6 @@ Want to contribute an SDK improvement or add support for another language?
 ## Documentation
 
 - 📚 Full API documentation: [threats.cyberapi.io/docs](https://threats.cyberapi.io/docs)
-- 💼 Admin dashboard: [admin.cyberapi.io](https://admin.cyberapi.io)
 - 🌐 Main website: [cyberapi.io](https://cyberapi.io)
 
 ## License
