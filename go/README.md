@@ -1,6 +1,6 @@
 # CyberAPI Go SDK
 
-Official Go client for [CyberAPI](https://threats.cyberapi.io) Threat Intelligence API.
+Official Go client for [CyberAPI](https://www.cyberapi.io) Threat Intelligence API.
 
 ## Installation
 
@@ -567,7 +567,7 @@ go version
 
 ## Support
 
-- 📚 [API Documentation](https://threats.cyberapi.io/docs)
+- 📚 [API Documentation](https://www.cyberapi.io/docs)
 - 📧 [Email Support](mailto:inbox@cyberapi.io)
 
 ## License

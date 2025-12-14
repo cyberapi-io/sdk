@@ -2,7 +2,7 @@
 
 Official client libraries for CyberAPI Threat Intelligence API.
 
-Get your API key at [threats.cyberapi.io](https://threats.cyberapi.io)
+Get your API key at [https://www.cyberapi.io](https://www.cyberapi.io)
 
 ## Available SDKs
 
@@ -104,7 +104,7 @@ Want to contribute an SDK improvement or add support for another language?
 
 ## Documentation
 
-- 📚 Full API documentation: [threats.cyberapi.io/docs](https://threats.cyberapi.io/docs)
+- 📚 Full API documentation: [www.cyberapi.io/docs](https://www.cyberapi.io/docs)
 - 🌐 Main website: [cyberapi.io](https://cyberapi.io)
 
 ## License

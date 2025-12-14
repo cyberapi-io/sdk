@@ -1,6 +1,6 @@
 # CyberAPI PHP SDK
 
-Official PHP client for [CyberAPI](https://threats.cyberapi.io) Threat Intelligence API.
+Official PHP client for [CyberAPI](https://www.cyberapi.io) Threat Intelligence API.
 
 ## Installation
 
@@ -199,7 +199,7 @@ $client = new CyberAPI(
 ```php
 $client = new CyberAPI(
     'your_api_key',
-    'https://threats.cyberapi.io/api/v1',
+    'https://www.cyberapi.io/api/v1',
     30  // 30 seconds timeout
 );
 ```
@@ -346,7 +346,7 @@ curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
 If you're experiencing timeouts, increase the timeout value:
 
 ```php
-$client = new CyberAPI('your_key', 'https://threats.cyberapi.io/api/v1', 60);
+$client = new CyberAPI('your_key', 'https://www.cyberapi.io/api/v1', 60);
 ```
 
 ### Memory Issues with Large Responses
@@ -380,7 +380,7 @@ php -v
 
 ## Support
 
-- 📚 [API Documentation](https://threats.cyberapi.io/docs)
+- 📚 [API Documentation](https://www.cyberapi.io/docs)
 - 📧 [Email Support](mailto:inbox@cyberapi.io)
 
 ## License

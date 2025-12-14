@@ -73,9 +73,9 @@ Get list of detected threat signals.
 
 ## Get Your API Key
 
-Visit [https://threats.cyberapi.io](https://threats.cyberapi.io) to get your API key.
+Visit [https://www.cyberapi.io](https://www.cyberapi.io) to get your API key.
 
 ## Support
 
 - Email: inbox@cyberapi.io
-- Docs: https://threats.cyberapi.io/docs
+- Docs: https://www.cyberapi.io/docs
