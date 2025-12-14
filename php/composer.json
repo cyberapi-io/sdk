@@ -1,0 +1,23 @@
+{
+    "name": "cyberapi/cyberapi-php",
+    "description": "Official PHP SDK for CyberAPI - Threat Intelligence & Security Checks",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "CyberAPI Team",
+            "email": "dev@cyberapi.io"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "CyberAPI\\": "src/"
+        },
+        "classmap": ["CyberAPI.php"]
+    }
+}

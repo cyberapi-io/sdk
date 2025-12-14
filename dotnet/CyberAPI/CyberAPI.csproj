@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <PackageId>CyberAPI</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>CyberAPI</Authors>
+    <Company>CyberAPI</Company>
+    <Description>Official .NET client for CyberAPI Threat Intelligence API</Description>
+    <PackageTags>security;threat-intelligence;api;cybersecurity;malware;phishing</PackageTags>
+    <RepositoryUrl>https://github.com/cyberapi-io/sdk</RepositoryUrl>
+    <PackageProjectUrl>https://threats.cyberapi.io</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Text.Json" Version="6.0.0" />
+  </ItemGroup>
+
+</Project>
