@@ -105,7 +105,7 @@ Want to contribute an SDK improvement or add support for another language?
 ## Documentation
 
 - 📚 Full API documentation: [docs.cyberapi.io](https://docs.cyberapi.io)
-- 🌐 Main website: [cyberapi.io](https://www.cyberapi.io)
+- 🌐 Main website: [www.cyberapi.io](https://www.cyberapi.io)
 
 ## License
 
